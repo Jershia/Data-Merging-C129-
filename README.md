@@ -78,7 +78,7 @@ cd Scripts
 .\activate.bat
 ````
 ## New Terms :
- * *Beautiful soup targets html tags.html.parser the data.
+ * *Beautiful soup targets html tags.html.parser the data.*
  * *enumerate add index numbers.*
  * *xpath is used to navigate through elements in xml document.*
  * *BeautifulSoup(bs4):- used for parsing text as html and performing actions in it like finding specific html tags with a particular id,class,ul,il tag etc..*
